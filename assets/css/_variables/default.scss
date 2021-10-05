@@ -39,3 +39,10 @@ $dark-pagination-link-color : #a9a9b3;
 $dark-pagination-link-active-color: #fff;
 
 $dark-border-color: #4a4b50;
+
+code.has-jax {
+    -webkit-font-smoothing: antialiased;
+    background: inherit !important;
+    border: none !important;
+    font-size: 100%;
+}
